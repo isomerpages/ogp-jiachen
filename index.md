@@ -8,10 +8,8 @@ notification: hello there
 sections:
   - hero:
       title: Hero title
-      subtitle: Hero subtitle
+      subtitle: This is hero subtitle!
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
